@@ -8,12 +8,15 @@ A collection of core **quantitative finance models** implemented in Python, cove
 
 ⚙️ **What’s Included:**
 
-\- **Monte Carlo Simulation** – Asset price simulation and risk analysis  
+**🔹 Fundamentals: ** Normal Returns, Present Value calculations, Value at Risk (VaR)  
 
-\- **Markowitz Portfolio Optimization** – Efficient frontier \& optimal allocation  
+**🔹 Asset Pricing:** Black-Scholes Model, CAPM (Capital Asset Pricing Model)  
 
-\- **CAPM (Capital Asset Pricing Model)** – Risk-return relationship \& beta estimation  
+**🔹 Fixed Income: ** Coupon Bonds, Zero Coupon Bonds, Interest Rate Model (Vasicek)  
 
+**🔹 Portfolio Optimization: ** Markowitz Model (Efficient Frontier)  
+
+**🔹 Simulations:** Monte Carlo Simulation (Black-Scholes), Monte Carlo VaR 
 
 
 💡 **Key Concepts:**
