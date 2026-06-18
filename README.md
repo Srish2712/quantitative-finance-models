@@ -8,13 +8,13 @@ A collection of core **quantitative finance models** implemented in Python, cove
 
 ⚙️ **What’s Included:**
 
-**🔹 Fundamentals: ** Normal Returns, Present Value calculations, Value at Risk (VaR)  
+**🔹 Fundamentals:** Normal Returns, Present Value calculations, Value at Risk (VaR)  
 
 **🔹 Asset Pricing:** Black-Scholes Model, CAPM (Capital Asset Pricing Model)  
 
-**🔹 Fixed Income: ** Coupon Bonds, Zero Coupon Bonds, Interest Rate Model (Vasicek)  
+**🔹 Fixed Income:** Coupon Bonds, Zero Coupon Bonds, Interest Rate Model (Vasicek)  
 
-**🔹 Portfolio Optimization: ** Markowitz Model (Efficient Frontier)  
+**🔹 Portfolio Optimization:** Markowitz Model (Efficient Frontier)  
 
 **🔹 Simulations:** Monte Carlo Simulation (Black-Scholes), Monte Carlo VaR 
 
