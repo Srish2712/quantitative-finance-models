@@ -1,22 +1,22 @@
-\# 📊 Quantitative Finance Models (Python)
+📊 **Quantitative Finance Models (Python)**
 
 
 
-A collection of core \*\*quantitative finance models\*\* implemented in Python, covering portfolio optimization, risk-return analysis, and simulation techniques.
+A collection of core **quantitative finance models** implemented in Python, covering portfolio optimization, risk-return analysis, and simulation techniques.
 
 
 
-\## ⚙️ What’s Included
+⚙️ **What’s Included:**
 
-\- \*\*Monte Carlo Simulation\*\* – Asset price simulation and risk analysis  
+\- **Monte Carlo Simulation** – Asset price simulation and risk analysis  
 
-\- \*\*Markowitz Portfolio Optimization\*\* – Efficient frontier \& optimal allocation  
+\- **Markowitz Portfolio Optimization** – Efficient frontier \& optimal allocation  
 
-\- \*\*CAPM (Capital Asset Pricing Model)\*\* – Risk-return relationship \& beta estimation  
+\- **CAPM (Capital Asset Pricing Model)** – Risk-return relationship \& beta estimation  
 
 
 
-\## 💡 Key Concepts
+💡 **Key Concepts:**
 
 \- Portfolio optimization  
 
@@ -28,7 +28,7 @@ A collection of core \*\*quantitative finance models\*\* implemented in Python, 
 
 
 
-\## 🛠️ Tech Stack
+🛠️ **Tech Stack:**
 
 \- Python  
 
@@ -38,14 +38,9 @@ A collection of core \*\*quantitative finance models\*\* implemented in Python, 
 
 
 
-\## 🎯 Purpose
+🎯 **Purpose:**
 
-This repository demonstrates practical applications of \*\*quantitative finance concepts using code\*\*, bridging financial theory with real-world implementation.
-
-
-
-\---
-
+This repository demonstrates practical applications of **quantitative finance concepts using code**, bridging financial theory with real-world implementation.
 
 
 > Built to combine financial intuition with analytical modeling.
